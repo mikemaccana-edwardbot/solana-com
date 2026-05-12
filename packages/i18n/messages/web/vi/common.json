@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Solana for Financial Institutions: Build the Future of Finance Today",
-      "seoDescription": "The fastest, cheapest, and most scalable blockchain for financial institutions. Unlock new possibilities with token extensions, SPEs, asset tokenization, and more. Trusted by Visa, Stripe, and Pyth."
+      "title": "Solana cho Tổ chức Tài chính: Nền tảng Thanh toán của Phố Wall",
+      "description": "Ngành tài chính đã vượt qua giai đoạn thí điểm. Các tổ chức tài chính toàn cầu đang thanh toán tài sản thực, phát hành công cụ thực và di chuyển vốn thực trên Solana."
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "Customizable blockchain solutions for high-volume finance.",
-      "body": "<p>The Solana protocol enables highly-configurable, native tooling that gives institutions unmatched speed, cost efficiency, and flexibility. Financial institutions who need web3 to enable global, 24-hour trading, can take advantage of innovations in the Solana ecosystem like token extensions, permissioned environments, and more to build compliance-friendly solutions.</p>"
-    },
-    "buttons": {
-      "connect": "CONNECT"
-    },
-    "trustbar": {
-      "eyebrow": "POWERING TOOLS AND INTEGRATIONS FROM COMPANIES ALL AROUND THE WORLD"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "Tools to get started",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "Trusted by both established institutions and cutting-edge startups",
-        "body": "See the latest innovations from leaders who choose to build on Solana:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "The world's most used blockchain.",
-        "body": "Solana processes more daily transactions than all other chains combined."
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "TOOL SPOTLIGHT",
-        "heading": "Customize for Compliance with Token Extensions",
-        "body": "A new token standard on Solana built in collaboration with large institutions, token extensionshas native functionality designed for complex behaviors and regulatory compliance. Mix and match any of the more than a dozen extensions to build a token that meets specific needs - use transfer fees to charge fees on tokens, permanent delegate authority to set up freeze-and-seize functionality, transfer hooks for KYC, and more.",
-        "ctaLabel": "learn more"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "Nền tảng Thanh toán \ncủa Phố Wall.",
+      "subtitle": "Ngành tài chính đã vượt qua giai đoạn thí điểm. Các tổ chức tài chính trên toàn cầu đang vận hành thực tế, thanh toán tài sản thực, phát hành công cụ thực và di chuyển vốn thực trên Solana ngay bây giờ.",
+      "reportEyebrow": "Tài chính Tổ chức trên Solana",
+      "reportDescription": "Tìm hiểu cách các tổ chức tài chính hàng đầu triển khai trên Solana.",
+      "emailCta": "Kết nối ngay",
+      "stats": {
         "0": {
-          "title": "Solana Permissioned Environments (SPEs)",
-          "body": "<p>Customizable, private SVM networks for enterprise solutions.</p>",
-          "buttonLabel": "Learn More"
+          "value": "<1s",
+          "label": "Thời gian hoàn tất giao dịch"
         },
         "1": {
-          "title": "Real World Asset Tokenization",
-          "body": "<p>Unlock new avenues for investment, liquidity, and asset management.</p>",
-          "buttonLabel": "LEARN MORE"
+          "value": "$0.00025",
+          "label": "Chi phí giao dịch trung bình"
         },
         "2": {
-          "title": "State Compression",
-          "body": "<p>Use the innovative compression technology on the Solana protocol to build for massive scale.</p>",
-          "buttonLabel": "learn more"
+          "value": "100M+",
+          "label": "Giao dịch hàng ngày"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Tùy chỉnh để tuân thủ với</light> Token Extensions",
+      "description": "Một tiêu chuẩn token mới trên Solana được xây dựng phối hợp với các tổ chức lớn, Token Extensions có chức năng tích hợp được thiết kế cho các hành vi phức tạp và tuân thủ quy định. Kết hợp bất kỳ tiện ích mở rộng nào trong hơn một chục tiện ích để xây dựng token đáp ứng nhu cầu cụ thể - sử dụng phí chuyển khoản, quyền ủy quyền vĩnh viễn cho chức năng đóng băng và thu giữ, hook chuyển khoản cho KYC và nhiều hơn nữa."
+    },
+    "projects": {
+      "title": "<light>Triển khai <br></br>thực tế trên</light> Solana",
+      "morganStanley": {
+        "name": "Morgan Stanley",
+        "description": "Morgan Stanley Investment Management đang mở rộng quyền truy cập vào Solana cho khách hàng bán lẻ và tổ chức trên toàn cầu thông qua Morgan Stanley Solana Trust. Sản phẩm được thiết kế để theo dõi giá SOL và bao gồm thành phần staking, cho phép một phần nắm giữ kiếm phần thưởng mạng.",
+        "stat": "$1.8T",
+        "statLabel": "Tài sản được quản lý"
+      },
+      "jpmorgan": {
+        "name": "JPMorgan",
+        "description": "JPMorgan đang token hóa các công cụ nợ ngắn hạn, cho phép phát hành giấy thương mại 24/7, giao dịch thứ cấp và thanh toán tự động. Điều kiện đáo hạn có thể lập trình và hook chuyển khoản KYC thay thế đối chiếu thủ công giữa các bên giao dịch.",
+        "stat": "$50M",
+        "statLabel": "Đợt phát hành ban đầu"
+      },
+      "citi": {
+        "name": "Citi",
+        "description": "Citi đang số hóa tài chính thương mại bằng cách thử nghiệm bằng chứng khái niệm trên Solana, thay thế thư tín dụng giấy và đối chiếu hóa đơn bằng hợp đồng thông minh có thể lập trình. Kết quả: giải phóng vốn lưu động nhanh hơn, khả năng kiểm toán đầy đủ và thanh toán xuyên biên giới liền mạch.",
+        "stat": "24/7",
+        "statLabel": "Khả dụng quy trình làm việc"
+      },
+      "societeGenerale": {
+        "name": "Societe Generale",
+        "description": "Societe Generale, thông qua bộ phận tài sản số SG Forge, đã phát hành EUR CoinVertible (EURCV) trên Solana: một stablecoin được quản lý, định giá bằng euro, cho phép thanh toán có thể lập trình, thanh toán tức thì và các sản phẩm tài chính gốc DeFi cho khách hàng tổ chức.",
+        "stat": "1:1",
+        "statLabel": "Bảo chứng EUR"
+      },
+      "stateStreet": {
+        "name": "State Street",
+        "description": "State Street và Galaxy Asset Management đã ra mắt quỹ thị trường tiền tệ token hóa trên Solana, sử dụng PYUSD cho việc mua và bán lại 24/7. Với 50 nghìn tỷ USD tài sản lưu ký, State Street là Ngân hàng Quan trọng Có Tính Hệ thống Toàn cầu đầu tiên phát hành tài sản trên blockchain công khai.",
+        "stat": "$50T",
+        "statLabel": "Tài sản lưu ký"
+      }
+    },
+    "useCases": {
+      "title": "Được xây dựng cho tài chính được quản lý",
+      "items": {
+        "0": {
+          "title": "Hạn chế chuyển giao & danh sách trắng nhà đầu tư",
+          "description": "Kiểm soát chính xác ai có thể nắm giữ và chuyển giao token với các hạn chế chuyển giao tích hợp sẵn và danh sách trắng nhà đầu tư ở cấp độ giao thức. Không cần công cụ bên thứ ba."
+        },
+        "1": {
+          "title": "Quyền đóng băng & tịch thu",
+          "description": "Duy trì tuân thủ quy định với khả năng đóng băng và tịch thu gốc. Quyền ủy quyền vĩnh viễn cho phép các tổ chức đáp ứng yêu cầu thực thi mà không làm giảm tính phi tập trung."
+        },
+        "2": {
+          "title": "Chuyển giao bảo mật",
+          "description": "Bảo vệ quyền riêng tư tổ chức với các giao dịch chuyển giao bảo mật che giấu số tiền giao dịch trong khi vẫn duy trì khả năng kiểm toán đầy đủ cho cơ quan quản lý. Được tích hợp sẵn trong tiêu chuẩn token."
         },
         "3": {
-          "title": "Digital Assets",
-          "body": "<p>Native support for the next generation of digital assets.</p>",
-          "buttonLabel": "learn more"
+          "title": "Hook chuyển giao có thể lập trình",
+          "description": "Thực thi kiểm tra KYC/AML tự động trên mọi giao dịch chuyển giao với các hook có thể lập trình. Logic tùy chỉnh thực thi ở cấp độ giao thức, đảm bảo tuân thủ mà không cần can thiệp thủ công."
+        },
+        "4": {
+          "title": "Môi trường có phân quyền (SPE)",
+          "description": "Triển khai các mạng SVM riêng tư, có thể tùy chỉnh cho các khối lượng công việc tổ chức nhạy cảm. Môi trường Phân Quyền Solana cung cấp hiệu suất của chuỗi công khai với quyền kiểm soát của mạng riêng tư."
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa expanded a stablecoin pilot to Solana, stating that the network was \"a good candidate for efficient blockchain settlement rails using stablecoins like USDC\"</p>",
-        "buttonLabel": "Read More"
+        "title": "Token Extensions",
+        "description": "Tiêu chuẩn token tuân thủ quy định với transfer hooks tích hợp sẵn, quyền đóng băng và chuyển giao bảo mật."
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe debuted its fiat-to-crypto payments onramp — and 11 of the 16 projects in the program are built on Solana.</p>",
-        "buttonLabel": "read more"
+        "title": "Môi trường được phân quyền",
+        "description": "Mạng lưới SVM riêng tư cho khối lượng công việc doanh nghiệp với toàn quyền kiểm soát validator và quyền truy cập."
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>The high-frequency oracle service uses a Solana Permissioned Environment for rapid data processing.</p>",
-        "buttonLabel": "Read Case Study"
-      }
+        "title": "Token hóa RWA",
+        "description": "Cơ sở hạ tầng tài sản thế giới thực để token hóa cổ phiếu, nợ, quỹ và tài sản thay thế."
+      },
+      "3": {
+        "title": "Chuyển giao bảo mật",
+        "description": "Giao dịch bảo vệ quyền riêng tư che giấu số lượng trong khi vẫn duy trì khả năng kiểm toán theo quy định."
+      },
+      "4": {
+        "title": "Thanh toán 24/7",
+        "description": "Thanh toán luôn hoạt động không có giờ giao dịch, không có độ trễ T+2 và tính cuối cùng dưới một giây."
+      },
+      "5": {
+        "title": "Tuân thủ có thể lập trình",
+        "description": "Thực thi KYC/AML tại tầng tài sản với kiểm tra tự động trên mỗi giao dịch chuyển."
+      },
+      "title": "Bộ công cụ tổ chức",
+      "description": "Solana có hàng chục sản phẩm sẵn sàng cho tài chính tổ chức."
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "Tương lai của tài chính",
+      "subtitle": "Lắng nghe từ những người tiên phong đang chuyển đổi thị trường toàn cầu và lý do họ chọn Solana.",
+      "videos": [
+        {
+          "title": "Tương lai của tài sản số",
+          "description": "Roger Bayston, Phó Chủ tịch điều hành Franklin Templeton",
+          "alt": "Hình thu nhỏ video Tương lai của Tài sản Số"
+        },
+        {
+          "title": "Solana và R3",
+          "description": "David Rutter, CEO, R3",
+          "alt": "Hình thu nhỏ video Solana và R3"
+        },
+        {
+          "title": "Các tổ chức đã có mặt",
+          "description": "Visa, VanEck, Ondo Finance, Galaxy Digital, Franklin Templeton",
+          "alt": "Hình thu nhỏ video Các tổ chức"
+        },
+        {
+          "title": "Thị trường vốn trên Internet",
+          "description": "Akshay BD, Giám đốc Tiếp thị Trưởng Solana Foundation",
+          "alt": "Hình thu nhỏ video Thị trường Vốn trên Internet"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>Những gì</light> đang tác động đến thị trường",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "Fast",
-          "body": "<p>Transactions on Solana are confirmed in less than a second, 5x quicker than the next fastest blockchain solution.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Tóm tắt Hội thảo trực tuyến: Quỹ Doanh nghiệp Onchain — Thanh khoản Toàn cầu 24/7"
         },
         "1": {
-          "label": "",
-          "headline": "Low-Cost",
-          "body": "<p>Predictable fees on Solana mean that regular transactions cost a fraction of a cent — even during peak usage.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "WisdomTree Mở rộng Hệ sinh thái Tokenization sang Solana"
         },
         "2": {
-          "label": "",
-          "headline": "Proven",
-          "body": "<p>The Solana network processes millions of transactions every day — more than every other blockchain combined.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks: Cơ sở Hạ tầng Quỹ Cấp Tổ chức Hoạt động với Tốc độ Internet"
+        },
+        "3": {
+          "title": "Tăng Băng thông, Giảm Độ trễ: Cách Solana Mở rộng Quy mô để Kích hoạt Thị trường Vốn trên Internet"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "Sẵn sàng xây dựng trên tiêu chuẩn tổ chức?",
+      "reportDescription": "Tham gia cùng các ngân hàng và tổ chức tài chính đang triển khai trên Solana.",
+      "downloadReport": "Kết nối",
+      "whatElseTitle": "Solana còn hỗ trợ những gì khác?",
+      "items": [
+        {
+          "label": "Môi trường Có Phân quyền"
+        },
+        {
+          "label": "Tài sản Kỹ thuật số"
+        },
+        {
+          "label": "Tài sản Thế giới Thực"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana Permissioned Environments",
-      "description": "Solana Permissioned Environments, or SPEs, bring a private Solana Virtual Machine to businesses with special needs - creating a customizable, unbranded environment that uses Solana's unparalleled tech."
+      "description": "Solana Permissioned Environments, hay SPE, mang một Máy ảo Solana riêng tư đến các doanh nghiệp có nhu cầu đặc biệt - tạo ra một môi trường có thể tùy chỉnh, không nhãn hiệu sử dụng công nghệ vượt trội của Solana."
     },
     "hero": {
       "eyebrow": "Solana Permissioned Environments",

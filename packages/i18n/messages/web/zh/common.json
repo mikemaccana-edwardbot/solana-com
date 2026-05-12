@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Solana 金融机构解决方案：共建未来金融",
-      "seoDescription": "为金融机构打造的最快速、最低成本、最具可扩展性的区块链。通过 Token Extensions、SPEs、资产代币化等功能，解锁全新可能性。已获 Visa、Stripe 和 Pyth 信赖。"
+      "title": "Solana 金融机构解决方案：华尔街的结算轨道",
+      "description": "金融行业已超越试点阶段。全球金融机构正在 Solana 上结算真实资产、发行真实金融工具并转移真实资本。"
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "为高频金融业务量身定制的区块链解决方案。",
-      "body": "<p>Solana 协议提供高度可配置的原生工具，助力机构实现无与伦比的速度、成本效益与灵活性。需要通过 web3 实现全球 24 小时交易的金融机构，可利用 Solana 生态的创新功能，如 Token Extensions、许可环境等，打造合规友好的解决方案。</p>"
-    },
-    "buttons": {
-      "connect": "连接"
-    },
-    "trustbar": {
-      "eyebrow": "为全球各地企业提供工具与集成支持"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "入门工具",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "深受知名机构与前沿初创企业信赖",
-        "body": "了解选择在 Solana 上构建的行业领袖的最新创新："
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "全球使用量最高的区块链。",
-        "body": "Solana 每日处理的交易量超过所有其他链的总和。"
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "工具聚焦",
-        "heading": "通过 Token Extensions 实现合规定制",
-        "body": "Solana 与大型机构合作推出的新一代代币标准，Token Extensions 拥有为复杂行为和合规需求而设计的原生功能。可灵活组合十余种扩展，打造满足特定需求的代币——如通过转账手续费功能收取费用，永久委托权限实现冻结与扣押，转账钩子支持 KYC 等。",
-        "ctaLabel": "了解更多"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "华尔街的\n结算轨道。",
+      "subtitle": "金融行业已超越试点阶段。全球金融机构正在生产环境中运行，此时此刻正在 Solana 上结算真实资产、发行真实金融工具并转移真实资本。",
+      "reportEyebrow": "Solana 上的机构金融",
+      "reportDescription": "了解领先金融机构如何在 Solana 上部署。",
+      "emailCta": "立即联系",
+      "stats": {
         "0": {
-          "title": "Solana 许可环境（SPEs）",
-          "body": "<p>为企业级解决方案打造的可定制、私有 SVM 网络。</p>",
-          "buttonLabel": "了解更多"
+          "value": "<1秒",
+          "label": "交易最终确认时间"
         },
         "1": {
-          "title": "现实资产代币化",
-          "body": "<p>为投资、流动性和资产管理开辟新路径。</p>",
-          "buttonLabel": "了解更多"
+          "value": "$0.00025",
+          "label": "平均交易成本"
         },
         "2": {
-          "title": "状态压缩",
-          "body": "<p>利用 Solana 协议的创新压缩技术，助力大规模应用。</p>",
-          "buttonLabel": "了解更多"
+          "value": "1亿+",
+          "label": "每日交易量"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>通过</light> Token Extensions <light>定制合规功能</light>",
+      "description": "Token Extensions 是 Solana 上与大型机构合作开发的新代币标准，具有专为复杂行为和监管合规而设计的原生功能。可以混合搭配十几种扩展功能中的任意组合，构建满足特定需求的代币——使用转账费用、永久委托权限实现冻结和扣押功能、KYC 转账钩子等功能。"
+    },
+    "projects": {
+      "title": "<light>在</light> Solana <light>上<br></br>的实时部署</light>",
+      "morganStanley": {
+        "name": "摩根士丹利",
+        "description": "摩根士丹利投资管理公司正在通过摩根士丹利 Solana 信托，为全球零售和机构客户扩大对 Solana 的访问。该产品旨在追踪 SOL 的价格，并包含质押组件，允许部分持有资产赚取网络奖励。",
+        "stat": "1.8万亿美元",
+        "statLabel": "管理资产规模"
+      },
+      "jpmorgan": {
+        "name": "摩根大通",
+        "description": "摩根大通正在将短期债务工具代币化，实现全天候商业票据发行、二级市场交易和自动结算。可编程的到期条件和 KYC 转账钩子取代了跨交易对手的人工对账。",
+        "stat": "5000万美元",
+        "statLabel": "初始发行规模"
+      },
+      "citi": {
+        "name": "花旗银行",
+        "description": "花旗银行正在通过在 Solana 上探索概念验证来实现贸易融资数字化，用可编程智能合约取代纸质信用证和发票对账。成效显著：营运资金释放更快、完全可审计以及跨境结算零摩擦。",
+        "stat": "24/7",
+        "statLabel": "工作流可用性"
+      },
+      "societeGenerale": {
+        "name": "法国兴业银行",
+        "description": "法国兴业银行通过其数字资产部门 SG Forge 在 Solana 上发行了 EUR CoinVertible (EURCV)：一种受监管的欧元计价稳定币，为机构客户提供可编程支付、即时结算和 DeFi 原生金融产品。",
+        "stat": "1:1",
+        "statLabel": "欧元支持"
+      },
+      "stateStreet": {
+        "name": "道富银行",
+        "description": "道富银行与 Galaxy Asset Management 在 Solana 上推出了代币化货币市场基金，使用 PYUSD 实现全天候申购和赎回。作为托管 50 万亿美元资产的机构，道富银行成为首家在公共区块链上发行资产的全球系统重要性银行。",
+        "stat": "50 万亿美元",
+        "statLabel": "托管资产"
+      }
+    },
+    "useCases": {
+      "title": "为受监管金融而构建",
+      "items": {
+        "0": {
+          "title": "转账限制与投资者白名单",
+          "description": "通过协议层内置的转账限制和投资者白名单，精确控制哪些人可以持有和转移代币。无需第三方工具。"
+        },
+        "1": {
+          "title": "冻结与扣押权限",
+          "description": "利用原生冻结和扣押功能维持监管合规。永久委托授权使机构能够满足执法要求，同时不影响去中心化。"
+        },
+        "2": {
+          "title": "保密转账",
+          "description": "通过保密转账保护机构隐私，在保持监管机构完全可审计性的同时隐藏交易金额。原生内置于代币标准中。"
         },
         "3": {
-          "title": "数字资产",
-          "body": "<p>原生支持新一代数字资产。</p>",
-          "buttonLabel": "了解更多"
+          "title": "可编程转账钩子",
+          "description": "通过可编程钩子在每次转账时自动执行 KYC/AML 检查。自定义逻辑在协议层执行，确保合规无需人工干预。"
+        },
+        "4": {
+          "title": "许可环境（SPEs）",
+          "description": "为敏感的机构工作负载部署私有、可定制的 SVM 网络。Solana 许可环境提供公共链的性能和私有网络的控制力。"
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa 将稳定币试点扩展到 Solana，称该网络是“使用 USDC 等稳定币进行高效区块链结算的良好选择”。</p>",
-        "buttonLabel": "阅读更多"
+        "title": "Token Extensions",
+        "description": "原生合规的代币标准，内置转账钩子、冻结权限和机密转账功能。"
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe 推出了法币到加密货币的支付通道——该项目中的 16 个项目有 11 个是基于 Solana 构建的。</p>",
-        "buttonLabel": "阅读更多"
+        "title": "许可环境",
+        "description": "面向企业工作负载的私有 SVM 网络，可完全控制 validator 和访问权限。"
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>高频预言机服务利用 Solana 授权环境进行快速数据处理。</p>",
-        "buttonLabel": "阅读案例研究"
-      }
+        "title": "实物资产代币化",
+        "description": "用于股权、债务、基金和另类资产代币化的实物资产基础设施。"
+      },
+      "3": {
+        "title": "机密转账",
+        "description": "保护隐私的交易，隐藏金额的同时保持监管可审计性。"
+      },
+      "4": {
+        "title": "全天候结算",
+        "description": "始终在线的结算系统，无市场交易时间限制，无 T+2 延迟，亚秒级最终确认。"
+      },
+      "5": {
+        "title": "可编程合规",
+        "description": "在资产层强制执行 KYC/AML，对每笔转账自动进行检查。"
+      },
+      "title": "机构工具包",
+      "description": "Solana 为机构金融提供数十种即用型产品。"
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "金融的未来",
+      "subtitle": "聆听正在变革全球市场的先驱者的声音，了解他们选择 Solana 的原因。",
+      "videos": [
+        {
+          "title": "数字资产的未来",
+          "description": "Roger Bayston，富兰克林邓普顿执行副总裁",
+          "alt": "数字资产的未来视频缩略图"
+        },
+        {
+          "title": "Solana 与 R3",
+          "description": "David Rutter，R3 首席执行官",
+          "alt": "Solana 与 R3 视频缩略图"
+        },
+        {
+          "title": "机构已入场",
+          "description": "Visa、VanEck、Ondo Finance、Galaxy Digital、富兰克林邓普顿",
+          "alt": "机构视频缩略图"
+        },
+        {
+          "title": "互联网资本市场",
+          "description": "Akshay BD，Solana Foundation 首席营销官",
+          "alt": "互联网资本市场视频缩略图"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>市场</light>动态",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "快速",
-          "body": "<p>Solana 上的交易确认时间不到一秒，比下一个最快的区块链方案快 5 倍。</p>",
-          "alt": "默认替代文本",
-          "buttonLabel": ""
+          "title": "网络研讨会回顾：链上企业资金管理 — 全天候全球流动性"
         },
         "1": {
-          "label": "",
-          "headline": "低成本",
-          "body": "<p>Solana 的可预测费用意味着常规交易的成本仅为几分钱的一小部分——即使在高峰期也是如此。</p>",
-          "alt": "默认替代文本",
-          "buttonLabel": ""
+          "title": "WisdomTree 将代币化生态系统拓展至 Solana"
         },
         "2": {
-          "label": "",
-          "headline": "验证成熟",
-          "body": "<p>Solana 网络每天处理数百万笔交易——超过所有其他区块链的总和。</p>",
-          "alt": "默认替代文本",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks：以互联网速度运行的机构级资金管理基础设施"
+        },
+        "3": {
+          "title": "提升带宽，降低延迟：Solana 如何扩展以实现互联网资本市场"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "准备好在机构标准上构建了吗？",
+      "reportDescription": "加入已在 Solana 上部署的银行和金融机构行列。",
+      "downloadReport": "联系我们",
+      "whatElseTitle": "Solana 还支持哪些应用？",
+      "items": [
+        {
+          "label": "许可环境"
+        },
+        {
+          "label": "数字资产"
+        },
+        {
+          "label": "真实世界资产"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana 权限环境",
-      "description": "Solana 权限环境（SPEs）为有特殊需求的企业带来专属的 Solana 虚拟机 —— 构建可定制、无品牌的环境，采用 Solana 无与伦比的技术。"
+      "description": "Solana 许可环境（SPE）为有特殊需求的企业提供私有的 Solana 虚拟机，创建可定制的无品牌环境，同时利用 Solana 无与伦比的技术优势。"
     },
     "hero": {
       "eyebrow": "Solana 权限环境",

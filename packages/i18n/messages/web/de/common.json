@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Solana für Finanzinstitute: Gestalten Sie noch heute die Zukunft des Finanzwesens",
-      "seoDescription": "Die schnellste, günstigste und skalierbarste Blockchain für Finanzinstitute. Erschließen Sie neue Möglichkeiten mit Token Extensions, SPEs, Asset-Tokenisierung und mehr. Vertraut von Visa, Stripe und Pyth."
+      "title": "Solana für Finanzinstitute: Die Settlement-Infrastruktur der Wall Street",
+      "description": "Die Finanzbranche hat die Pilotphase hinter sich gelassen. Finanzinstitute weltweit wickeln echte Vermögenswerte ab, geben echte Instrumente aus und bewegen echtes Kapital auf Solana."
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "Anpassbare Blockchain-Lösungen für hochvolumige Finanzgeschäfte.",
-      "body": "<p>Das Solana-Protokoll ermöglicht hochgradig konfigurierbare, native Tools, die Institutionen unübertroffene Geschwindigkeit, Kosteneffizienz und Flexibilität bieten. Finanzinstitute, die Web3 für globalen 24-Stunden-Handel benötigen, können Innovationen im Solana-Ökosystem wie Token Extensions, zugriffsbeschränkte Umgebungen und mehr nutzen, um compliance-freundliche Lösungen zu entwickeln.</p>"
-    },
-    "buttons": {
-      "connect": "VERBINDEN"
-    },
-    "trustbar": {
-      "eyebrow": "UNTERSTÜTZT TOOLS UND INTEGRATIONEN VON UNTERNEHMEN AUS ALLER WELT"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "Tools für den Einstieg",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "Vertraut von etablierten Institutionen und innovativen Startups",
-        "body": "Sehen Sie die neuesten Innovationen von führenden Unternehmen, die sich für Solana entscheiden:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "Die meistgenutzte Blockchain der Welt.",
-        "body": "Solana verarbeitet mehr tägliche Transaktionen als alle anderen Chains zusammen."
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "TOOL-SPOTLIGHT",
-        "heading": "Anpassung für Compliance mit Token Extensions",
-        "body": "Ein neuer Token-Standard auf Solana, der in Zusammenarbeit mit großen Institutionen entwickelt wurde. Token Extensions verfügen über native Funktionalität für komplexe Verhaltensweisen und regulatorische Compliance. Kombinieren Sie beliebig viele der über ein Dutzend Extensions, um einen Token zu erstellen, der spezifische Anforderungen erfüllt – nutzen Sie Transfer-Fees, um Gebühren auf Token zu erheben, permanente Delegate-Authority für Freeze-and-Seize-Funktionalität, Transfer-Hooks für KYC und mehr.",
-        "ctaLabel": "mehr erfahren"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "Die Settlement-Infrastruktur \nder Wall Street.",
+      "subtitle": "Die Finanzbranche hat die Pilotphase hinter sich gelassen. Finanzinstitute weltweit sind im Live-Betrieb und wickeln echte Vermögenswerte ab, geben echte Instrumente aus und bewegen echtes Kapital auf Solana – genau jetzt.",
+      "reportEyebrow": "Institutionelles Finanzwesen auf Solana",
+      "reportDescription": "Erfahren Sie, wie führende Finanzinstitute auf Solana einsetzen.",
+      "emailCta": "Jetzt Kontakt aufnehmen",
+      "stats": {
         "0": {
-          "title": "Solana Permissioned Environments (SPEs)",
-          "body": "<p>Anpassbare, private SVM-Netzwerke für Unternehmenslösungen.</p>",
-          "buttonLabel": "Mehr erfahren"
+          "value": "<1s",
+          "label": "Transaktionsfinalität"
         },
         "1": {
-          "title": "Real World Asset Tokenisierung",
-          "body": "<p>Erschließen Sie neue Wege für Investitionen, Liquidität und Asset-Management.</p>",
-          "buttonLabel": "MEHR ERFAHREN"
+          "value": "$0.00025",
+          "label": "Durchschnittliche Transaktionskosten"
         },
         "2": {
-          "title": "State Compression",
-          "body": "<p>Nutzen Sie die innovative Kompressionstechnologie des Solana-Protokolls, um für massive Skalierung zu entwickeln.</p>",
-          "buttonLabel": "mehr erfahren"
+          "value": "100M+",
+          "label": "Tägliche Transaktionen"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Individuell anpassbar für Compliance mit</light> Token Extensions",
+      "description": "Ein neuer Token-Standard auf Solana, der in Zusammenarbeit mit großen Institutionen entwickelt wurde. Token Extensions bietet native Funktionalität für komplexe Verhaltensweisen und regulatorische Compliance. Kombinieren Sie beliebig viele der über ein Dutzend Erweiterungen, um einen Token zu erstellen, der spezifische Anforderungen erfüllt – nutzen Sie Transfergebühren, permanente Delegierungsbefugnisse für Freeze-and-Seize-Funktionalität, Transfer-Hooks für KYC und mehr."
+    },
+    "projects": {
+      "title": "<light>Live-<br></br>Implementierungen auf</light> Solana",
+      "morganStanley": {
+        "name": "Morgan Stanley",
+        "description": "Morgan Stanley Investment Management erweitert den Zugang zu Solana für private und institutionelle Kunden weltweit durch den Morgan Stanley Solana Trust. Das Produkt ist darauf ausgelegt, den Preis von SOL abzubilden, und beinhaltet eine Staking-Komponente, die es einem Teil der Bestände ermöglicht, Netzwerkprämien zu verdienen.",
+        "stat": "$1,8B",
+        "statLabel": "Verwaltetes Vermögen"
+      },
+      "jpmorgan": {
+        "name": "JPMorgan",
+        "description": "JPMorgan tokenisiert kurzfristige Schuldtitel und ermöglicht so die Ausgabe von Commercial Paper rund um die Uhr, den Sekundärhandel und die automatisierte Abwicklung. Programmierbare Fälligkeitsbedingungen und KYC-Transfer-Hooks ersetzen die manuelle Abstimmung zwischen Kontrahenten.",
+        "stat": "$50M",
+        "statLabel": "Erstausgabe"
+      },
+      "citi": {
+        "name": "Citi",
+        "description": "Citi digitalisiert die Handelsfinanzierung durch die Erprobung eines Proof of Concept auf Solana, bei dem papierbasierte Akkreditive und Rechnungsabgleiche durch programmierbare Smart Contracts ersetzt werden. Das Ergebnis: schnellere Freigabe von Working Capital, vollständige Prüfbarkeit und reibungslose grenzüberschreitende Abwicklung.",
+        "stat": "24/7",
+        "statLabel": "Workflow-Verfügbarkeit"
+      },
+      "societeGenerale": {
+        "name": "Societe Generale",
+        "description": "Societe Generale hat über ihre Digital-Asset-Sparte SG Forge EUR CoinVertible (EURCV) auf Solana ausgegeben: einen regulierten, auf Euro lautenden Stablecoin, der programmierbare Zahlungen, sofortige Abwicklung und DeFi-native Finanzprodukte für institutionelle Kunden ermöglicht.",
+        "stat": "1:1",
+        "statLabel": "EUR-Deckung"
+      },
+      "stateStreet": {
+        "name": "State Street",
+        "description": "State Street und Galaxy Asset Management haben einen tokenisierten Geldmarktfonds auf Solana aufgelegt, der PYUSD für Zeichnungen und Rücknahmen rund um die Uhr nutzt. Mit 50 Billionen US-Dollar an verwahrten Vermögenswerten ist State Street die erste systemrelevante Globalbank, die Vermögenswerte auf einer öffentlichen Blockchain ausgibt.",
+        "stat": "50 Bio. $",
+        "statLabel": "Vermögenswerte in Verwahrung"
+      }
+    },
+    "useCases": {
+      "title": "Entwickelt für regulierte Finanzmärkte",
+      "items": {
+        "0": {
+          "title": "Übertragungsbeschränkungen & Investor-Whitelisting",
+          "description": "Kontrollieren Sie genau, wer Token halten und übertragen kann, mit integrierten Übertragungsbeschränkungen und Investor-Whitelisting auf Protokollebene. Keine Drittanbieter-Tools erforderlich."
+        },
+        "1": {
+          "title": "Einfrierungs- & Beschlagnahmebefugnis",
+          "description": "Gewährleisten Sie regulatorische Compliance mit nativen Einfrierungs- und Beschlagnahmefunktionen. Permanente Delegationsbefugnisse ermöglichen es Institutionen, Durchsetzungsanforderungen zu erfüllen, ohne die Dezentralisierung zu beeinträchtigen."
+        },
+        "2": {
+          "title": "Vertrauliche Übertragungen",
+          "description": "Schützen Sie die Privatsphäre von Institutionen mit vertraulichen Übertragungen, die Transaktionsbeträge verbergen und gleichzeitig vollständige Prüfbarkeit für Regulierungsbehörden gewährleisten. Nativ in den Token-Standard integriert."
         },
         "3": {
-          "title": "Digitale Assets",
-          "body": "<p>Native Unterstützung für die nächste Generation digitaler Assets.</p>",
-          "buttonLabel": "mehr erfahren"
+          "title": "Programmierbare Transfer-Hooks",
+          "description": "Erzwingen Sie KYC/AML-Prüfungen automatisch bei jeder Übertragung mit programmierbaren Hooks. Benutzerdefinierte Logik wird auf Protokollebene ausgeführt und gewährleistet Compliance ohne manuelle Eingriffe."
+        },
+        "4": {
+          "title": "Zugangsgeschützte Umgebungen (SPEs)",
+          "description": "Implementieren Sie private, anpassbare SVM-Netzwerke für sensible institutionelle Workloads. Solana Permissioned Environments bieten die Leistung der öffentlichen Chain mit der Kontrolle eines privaten Netzwerks."
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa erweiterte ein Stablecoin-Pilotprojekt auf Solana und erklärte, dass das Netzwerk \"ein guter Kandidat für effiziente Blockchain-Settlement-Schienen mit Stablecoins wie USDC\" sei</p>",
-        "buttonLabel": "Mehr lesen"
+        "title": "Token Extensions",
+        "description": "Compliance-nativer Token-Standard mit integrierten Transfer-Hooks, Freeze-Authority und vertraulichen Transfers."
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe führte seine Fiat-zu-Krypto-Zahlungs-Onramp ein – und 11 der 16 Projekte im Programm basieren auf Solana.</p>",
-        "buttonLabel": "mehr lesen"
+        "title": "Berechtigungsbasierte Umgebungen",
+        "description": "Private SVM-Netzwerke für Enterprise-Workloads mit vollständiger Kontrolle über Validatoren und Zugriff."
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>Der Hochfrequenz-Oracle-Service nutzt eine Solana Permissioned Environment für schnelle Datenverarbeitung.</p>",
-        "buttonLabel": "Fallstudie lesen"
-      }
+        "title": "RWA-Tokenisierung",
+        "description": "Real-World-Asset-Infrastruktur für die Tokenisierung von Aktien, Anleihen, Fonds und alternativen Vermögenswerten."
+      },
+      "3": {
+        "title": "Vertrauliche Transfers",
+        "description": "Datenschutzwahrende Transaktionen, die Beträge abschirmen und gleichzeitig die regulatorische Prüfbarkeit gewährleisten."
+      },
+      "4": {
+        "title": "24/7-Settlement",
+        "description": "Dauerhaftes Settlement ohne Handelszeiten, ohne T+2-Verzögerungen und mit Finalität in Sekundenbruchteilen."
+      },
+      "5": {
+        "title": "Programmierbare Compliance",
+        "description": "KYC/AML-Durchsetzung auf Asset-Ebene mit automatischen Prüfungen bei jedem Transfer."
+      },
+      "title": "Institutionelles Toolkit",
+      "description": "Solana bietet dutzende schlüsselfertige Produkte für institutionelle Finanzdienstleistungen."
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "Die Zukunft des Finanzwesens",
+      "subtitle": "Erfahren Sie von den Pionieren, die globale Märkte transformieren, und warum sie sich für Solana entschieden haben.",
+      "videos": [
+        {
+          "title": "Die Zukunft digitaler Assets",
+          "description": "Roger Bayston, Franklin Templeton EVP",
+          "alt": "Videominiaturbild zur Zukunft digitaler Assets"
+        },
+        {
+          "title": "Solana und R3",
+          "description": "David Rutter, CEO, R3",
+          "alt": "Videominiaturbild zu Solana und R3"
+        },
+        {
+          "title": "Die Institutionen sind da",
+          "description": "Visa, VanEck, Ondo Finance, Galaxy Digital, Franklin Templeton",
+          "alt": "Videominiaturbild zu Institutionen"
+        },
+        {
+          "title": "Internet-Kapitalmärkte",
+          "description": "Akshay BD, Solana Foundation nCMO",
+          "alt": "Videominiaturansicht zu Internet-Kapitalmärkten"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>Was</light> die Märkte bewegt",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "Schnell",
-          "body": "<p>Transaktionen auf Solana werden in weniger als einer Sekunde bestätigt, 5x schneller als die nächstschnellste Blockchain-Lösung.</p>",
-          "alt": "Standard-Alternativtext",
-          "buttonLabel": ""
+          "title": "Webinar-Zusammenfassung: Corporate Treasury Onchain – Globale Liquidität rund um die Uhr"
         },
         "1": {
-          "label": "",
-          "headline": "Kostengünstig",
-          "body": "<p>Vorhersehbare Fee auf Solana bedeuten, dass reguläre Transaktionen einen Bruchteil eines Cents kosten – selbst bei Spitzenauslastung.</p>",
-          "alt": "Standard-Alternativtext",
-          "buttonLabel": ""
+          "title": "WisdomTree erweitert Tokenisierungs-Ökosystem auf Solana"
         },
         "2": {
-          "label": "",
-          "headline": "Bewährt",
-          "body": "<p>Das Solana-Netzwerk verarbeitet täglich Millionen von Transaktionen – mehr als alle anderen Blockchains zusammen.</p>",
-          "alt": "Standard-Alternativtext",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks: Treasury-Infrastruktur auf institutionellem Niveau, die mit Internet-Geschwindigkeit arbeitet"
+        },
+        "3": {
+          "title": "Bandbreite erhöhen, Latenz reduzieren: Wie Solana skaliert, um Internet-Kapitalmärkte zu ermöglichen"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "Bereit, auf dem institutionellen Standard aufzubauen?",
+      "reportDescription": "Schließen Sie sich den Banken und Finanzinstituten an, die bereits auf Solana implementieren.",
+      "downloadReport": "Verbinden",
+      "whatElseTitle": "Was treibt Solana noch an?",
+      "items": [
+        {
+          "label": "Zugriffsbeschränkte Umgebungen"
+        },
+        {
+          "label": "Digitale Assets"
+        },
+        {
+          "label": "Real World Assets"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana Permissioned Environments",
-      "description": "Solana Permissioned Environments, oder SPEs, bringen eine private Solana Virtual Machine zu Unternehmen mit besonderen Anforderungen – und schaffen eine anpassbare, ungebrandete Umgebung, die Solanas unvergleichliche Technologie nutzt."
+      "description": "Solana Permissioned Environments (SPEs) bringen eine private Solana Virtual Machine zu Unternehmen mit besonderen Anforderungen – und schaffen eine anpassbare, ungebrandete Umgebung, die Solanas beispiellose Technologie nutzt."
     },
     "hero": {
       "eyebrow": "Solana Permissioned Environments",

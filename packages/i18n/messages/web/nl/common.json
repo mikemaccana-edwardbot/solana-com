@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Solana voor financiële instellingen: bouw vandaag de toekomst van finance",
-      "seoDescription": "De snelste, goedkoopste en meest schaalbare blockchain voor financiële instellingen. Ontgrendel nieuwe mogelijkheden met token extensions, SPE's, activatokenisatie en meer. Vertrouwd door Visa, Stripe en Pyth."
+      "title": "Solana voor Financiële Instellingen: Wall Streets Afwikkelingsinfrastructuur",
+      "description": "De financiële sector is voorbij de pilotfase. Financiële instellingen wereldwijd wikkelen echte activa af, geven echte instrumenten uit en verplaatsen echt kapitaal op Solana."
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "Aanpasbare blockchainoplossingen voor hoogvolume financiën.",
-      "body": "<p>Het Solana-protocol maakt zeer configureerbare, native tooling mogelijk die instellingen ongeëvenaarde snelheid, kostenefficiëntie en flexibiliteit biedt. Financiële instellingen die web3 nodig hebben om wereldwijde handel 24 uur per dag mogelijk te maken, kunnen profiteren van innovaties in het Solana-ecosysteem zoals token extensions, omgevingen met toegangsrechten en meer om compliance-vriendelijke oplossingen te bouwen.</p>"
-    },
-    "buttons": {
-      "connect": "Verbinden"
-    },
-    "trustbar": {
-      "eyebrow": "ONDERSTEUNT TOOLS EN INTEGRATIES VAN BEDRIJVEN OVER DE HELE WERELD"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "Tools om te beginnen",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "Vertrouwd door zowel gevestigde instellingen als baanbrekende startups",
-        "body": "Bekijk de nieuwste innovaties van leiders die ervoor kiezen om op Solana te bouwen:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "'s Werelds meest gebruikte blockchain.",
-        "body": "Solana verwerkt meer dagelijkse transacties dan alle andere chains samen."
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "TOOL IN DE SPOTLIGHT",
-        "heading": "Aanpassen voor compliance met Token Extensions",
-        "body": "Een nieuwe tokenstandaard op Solana, ontwikkeld in samenwerking met grote instellingen. Token Extensions heeft native functionaliteit ontworpen voor complex gedrag en naleving van regelgeving. Mix en match een van de meer dan twaalf extensies om een token te bouwen die aan specifieke behoeften voldoet — gebruik transferkosten om kosten op tokens te berekenen, permanente delegatiebevoegdheid om bevriezings- en inbeslagnamefunctionaliteit in te stellen, transfer hooks voor KYC en meer.",
-        "ctaLabel": "leer meer"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "Wall Streets \nAfwikkelingsinfrastructuur.",
+      "subtitle": "De financiële sector is voorbij de pilotfase. Financiële instellingen wereldwijd zijn live in productie en wikkelen echte activa af, geven echte instrumenten uit en verplaatsen echt kapitaal op Solana, nu.",
+      "reportEyebrow": "Institutionele Financiering op Solana",
+      "reportDescription": "Ontdek hoe toonaangevende financiële instellingen op Solana deployen.",
+      "emailCta": "Nu verbinding maken",
+      "stats": {
         "0": {
-          "title": "Solana Permissioned Environments (SPE's)",
-          "body": "<p>Aanpasbare, private SVM-netwerken voor enterprise-oplossingen.</p>",
-          "buttonLabel": "Leer meer"
+          "value": "<1s",
+          "label": "Transactiefinaliteit"
         },
         "1": {
-          "title": "Tokenisatie van real world assets",
-          "body": "<p>Ontgrendel nieuwe mogelijkheden voor investeringen, liquiditeit en activabeheer.</p>",
-          "buttonLabel": "Leer meer"
+          "value": "$0,00025",
+          "label": "Gemiddelde transactiekosten"
         },
         "2": {
-          "title": "State compression",
-          "body": "<p>Gebruik de innovatieve compressietechnologie op het Solana-protocol om op grote schaal te bouwen.</p>",
-          "buttonLabel": "leer meer"
+          "value": "100M+",
+          "label": "Dagelijkse transacties"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Aanpassen voor compliance met</light> Token Extensions",
+      "description": "Een nieuwe tokenstandaard op Solana, ontwikkeld in samenwerking met grote instellingen. Token Extensions beschikt over native functionaliteit die is ontworpen voor complex gedrag en regelgevende compliance. Combineer naar wens meer dan een dozijn extensies om een token te bouwen die aan specifieke eisen voldoet - gebruik transferkosten, permanente delegatiebevoegdheid voor bevries- en beslagfunctionaliteit, transfer hooks voor KYC, en meer."
+    },
+    "projects": {
+      "title": "<light>Live <br></br>implementaties op</light> Solana",
+      "morganStanley": {
+        "name": "Morgan Stanley",
+        "description": "Morgan Stanley Investment Management breidt de toegang tot Solana uit voor retail- en institutionele klanten wereldwijd via de Morgan Stanley Solana Trust. Het product is ontworpen om de prijs van SOL te volgen en omvat een stakingcomponent, waardoor een deel van de bezittingen netwerkbeloningen kan verdienen.",
+        "stat": "$1,8B",
+        "statLabel": "Beheerd vermogen"
+      },
+      "jpmorgan": {
+        "name": "JPMorgan",
+        "description": "JPMorgan tokeniseert kortlopende schuldinstrumenten, waardoor 24/7 uitgifte van handelspapier, secundaire handel en geautomatiseerde afwikkeling mogelijk wordt. Programmeerbare vervalbaarheidsvoorwaarden en KYC transfer hooks vervangen handmatige reconciliatie tussen tegenpartijen.",
+        "stat": "$50M",
+        "statLabel": "Initiële uitgifte"
+      },
+      "citi": {
+        "name": "Citi",
+        "description": "Citi digitaliseert handelsfinanciering door een proof of concept op Solana te verkennen waarbij papieren kredietbrieven en factuurreconciliatie worden vervangen door programmeerbare smart contracts. Het resultaat: snellere vrijgave van werkkapitaal, volledige controleerbaarheid en naadloze grensoverschrijdende afwikkeling.",
+        "stat": "24/7",
+        "statLabel": "Beschikbaarheid van de workflow"
+      },
+      "societeGenerale": {
+        "name": "Société Générale",
+        "description": "Société Générale heeft via zijntak voor digitale activa SG Forge EUR CoinVertible (EURCV) uitgegeven op Solana: een gereguleerde, in euro luidende stablecoin die programmeerbare betalingen, directe afwikkeling en DeFi-native financiële producten mogelijk maakt voor institutionele klanten.",
+        "stat": "1:1",
+        "statLabel": "EUR-dekking"
+      },
+      "stateStreet": {
+        "name": "State Street",
+        "description": "State Street en Galaxy Asset Management hebben een getokeniseerd geldmarktfonds gelanceerd op Solana, waarbij PYUSD wordt gebruikt voor 24/7 inschrijvingen en aflossingen. Met $50 biljoen aan beheerde activa is State Street de eerste Wereldwijd Systeemrelevante Bank die activa uitgeeft op een openbare blockchain.",
+        "stat": "$50 biljoen",
+        "statLabel": "Activa onder bewaring"
+      }
+    },
+    "useCases": {
+      "title": "Gebouwd voor gereguleerde financiële dienstverlening",
+      "items": {
+        "0": {
+          "title": "Overdrachtsbeperkingen & whitelisting van investeerders",
+          "description": "Bepaal precies wie tokens kan aanhouden en overdragen met ingebouwde overdrachtsbeperkingen en whitelisting van investeerders op protocolniveau. Geen tools van derden nodig."
+        },
+        "1": {
+          "title": "Bevriezings- en beslagbevoegdheid",
+          "description": "Handhaaf naleving van regelgeving met native bevriezings- en beslagmogelijkheden. Permanente delegatiebevoegdheid stelt instellingen in staat om aan handhavingsvereisten te voldoen zonder afbreuk te doen aan decentralisatie."
+        },
+        "2": {
+          "title": "Vertrouwelijke overdrachten",
+          "description": "Bescherm institutionele privacy met vertrouwelijke overdrachten die transactiebedragen afschermen terwijl volledige controleerbaarheid voor toezichthouders behouden blijft. Native ingebouwd in de tokenstandaard."
         },
         "3": {
-          "title": "Digitale activa",
-          "body": "<p>Native ondersteuning voor de volgende generatie digitale assets.</p>",
-          "buttonLabel": "meer info"
+          "title": "Programmeerbare transfer hooks",
+          "description": "Handhaaf KYC/AML-controles automatisch bij elke overdracht met programmeerbare hooks. Aangepaste logica wordt uitgevoerd op protocolniveau, waardoor naleving wordt gegarandeerd zonder handmatige tussenkomst."
+        },
+        "4": {
+          "title": "Toegangsgecontroleerde omgevingen (SPE's)",
+          "description": "Implementeer private, aanpasbare SVM-netwerken voor gevoelige institutionele workloads. Solana Permissioned Environments bieden de prestaties van de publieke chain met de controle van een privénetwerk."
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa breidde een stablecoin-pilot uit naar Solana en verklaarde dat het netwerk \"een goede kandidaat is voor efficiënte blockchain-settlementrails met stablecoins zoals USDC\"</p>",
-        "buttonLabel": "Lees meer"
+        "title": "Token Extensions",
+        "description": "Compliance-native tokenstandaard met ingebouwde transfer hooks, freeze authority en vertrouwelijke transfers."
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe lanceerde zijn fiat-naar-crypto betalingsonramp — en 11 van de 16 projecten in het programma zijn gebouwd op Solana.</p>",
-        "buttonLabel": "lees meer"
+        "title": "Permissioned omgevingen",
+        "description": "Private SVM-netwerken voor enterprise workloads met volledige controle over validators en toegang."
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>De hoogfrequente orakelservice gebruikt een Solana Permissioned Environment voor snelle dataverwerking.</p>",
-        "buttonLabel": "Lees casestudy"
-      }
+        "title": "RWA-tokenisatie",
+        "description": "Infrastructuur voor real-world assets om aandelen, schulden, fondsen en alternatieve assets te tokeniseren."
+      },
+      "3": {
+        "title": "Vertrouwelijke transfers",
+        "description": "Privacy-bewarende transacties die bedragen afschermen en tegelijkertijd de controleerbaarheid voor regelgeving behouden."
+      },
+      "4": {
+        "title": "24/7 afwikkeling",
+        "description": "Altijd-beschikbare afwikkeling zonder markturen, zonder T+2-vertragingen en met sub-seconde finaliteit."
+      },
+      "5": {
+        "title": "Programmeerbare compliance",
+        "description": "KYC/AML-handhaving op asset-niveau met automatische controles bij elke transfer."
+      },
+      "title": "Institutionele toolkit",
+      "description": "Solana heeft tientallen kant-en-klare producten voor institutionele financiering."
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "De toekomst van financiën",
+      "subtitle": "Hoor van de pioniers die wereldwijde markten transformeren en waarom zij voor Solana hebben gekozen.",
+      "videos": [
+        {
+          "title": "De toekomst van digitale assets",
+          "description": "Roger Bayston, Franklin Templeton EVP",
+          "alt": "Thumbnail van video over de toekomst van digitale assets"
+        },
+        {
+          "title": "Solana en R3",
+          "description": "David Rutter, CEO, R3",
+          "alt": "Thumbnail van video over Solana en R3"
+        },
+        {
+          "title": "De instituties zijn er",
+          "description": "Visa, VanEck, Ondo Finance, Galaxy Digital, Franklin Templeton",
+          "alt": "Thumbnail van video over instituties"
+        },
+        {
+          "title": "Internetkapitaalmarkten",
+          "description": "Akshay BD, Solana Foundation nCMO",
+          "alt": "Videominiatuur Internet Kapitaalmarkten"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>Wat</light> de markten beweegt",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "Snel",
-          "body": "<p>Transacties op Solana worden in minder dan een seconde bevestigd, 5x sneller dan de op een na snelste blockchainoplossing.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Webinar Samenvatting: Bedrijfsschatkist Onchain — 24/7 Mondiale Liquiditeit"
         },
         "1": {
-          "label": "",
-          "headline": "Lage kosten",
-          "body": "<p>Voorspelbare kosten op Solana betekenen dat reguliere transacties een fractie van een cent kosten — zelfs tijdens piekgebruik.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "WisdomTree Breidt Tokenisatie-ecosysteem Uit naar Solana"
         },
         "2": {
-          "label": "",
-          "headline": "Bewezen",
-          "body": "<p>Het Solana-netwerk verwerkt elke dag miljoenen transacties — meer dan alle andere blockchains samen.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks: Institutionele Treasury-infrastructuur Die Beweegt op Internetsnelheid"
+        },
+        "3": {
+          "title": "Verhoog Bandbreedte, Verminder Latentie: Hoe Solana Schaalt om Internetkapitaalmarkten Mogelijk te Maken"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "Klaar om te bouwen op de institutionele standaard?",
+      "reportDescription": "Sluit je aan bij de banken en financiële instellingen die al op Solana implementeren.",
+      "downloadReport": "Verbinden",
+      "whatElseTitle": "Wat drijft Solana nog meer aan?",
+      "items": [
+        {
+          "label": "Toestemmingsgebonden Omgevingen"
+        },
+        {
+          "label": "Digitale Activa"
+        },
+        {
+          "label": "Real World Assets"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana Permissioned Environments",
-      "description": "Solana Permissioned Environments, of SPE's, brengen een privé Solana Virtual Machine naar bedrijven met speciale behoeften — en creëren een aanpasbare, ongemerkte omgeving die gebruikmaakt van Solana's ongeëvenaarde technologie."
+      "description": "Solana Permissioned Environments, of SPE's, brengen een private Solana Virtual Machine naar bedrijven met specifieke behoeften - waardoor een aanpasbare, merkloze omgeving ontstaat die gebruikmaakt van Solana's ongeëvenaarde technologie."
     },
     "hero": {
       "eyebrow": "Solana Permissioned Environments",

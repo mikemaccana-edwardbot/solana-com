@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Solana rahoituslaitoksille: rakenna rahoituksen tulevaisuus tänään",
-      "seoDescription": "Nopein, edullisin ja skaalautuvin lohkoketju rahoituslaitoksille. Avaa uusia mahdollisuuksia token-laajennuksilla, SPE:illä, omaisuuden tokenoinnilla ja muilla ratkaisuilla. Visan, Stripen ja Pythin luottama."
+      "title": "Solana rahoituslaitoksille: Wall Streetin selvitysrata",
+      "description": "Rahoitusala on siirtynyt pilottien ohi. Rahoituslaitokset ympäri maailman selvittävät todellisia varoja, laskevat liikkeeseen todellisia instrumentteja ja siirtävät todellista pääomaa Solanassa."
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "Mukautettavia lohkoketjuratkaisuja suurivolyymiseen rahoitukseen.",
-      "body": "<p>Solana-protokolla mahdollistaa erittäin konfiguroitavat, natiivit työkalut, jotka tarjoavat laitoksille vertaansa vailla olevan nopeuden, kustannustehokkuuden ja joustavuuden. Rahoituslaitokset, jotka tarvitsevat web3:a mahdollistaakseen globaalin, 24 tunnin kaupankäynnin, voivat hyödyntää Solana-ekosysteemin innovaatioita, kuten token-laajennuksia, luvanvaraisia ympäristöjä ja muita vaatimustenmukaisuusystävällisiä ratkaisuja.</p>"
-    },
-    "buttons": {
-      "connect": "OTA YHTEYTTÄ"
-    },
-    "trustbar": {
-      "eyebrow": "TUKEE TYÖKALUJA JA INTEGRAATIOITA YRITYKSILTÄ YMPÄRI MAAILMAA"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "Työkalut aloittamiseen",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "Vakiintuneiden laitosten ja huippuluokan startup-yritysten luottama",
-        "body": "Tutustu uusimpiin innovaatioihin johtajilta, jotka valitsevat rakentaa Solanalla:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "Maailman käytetyin lohkoketju.",
-        "body": "Solana käsittelee enemmän päivittäisiä transaktioita kuin kaikki muut ketjut yhteensä."
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "TYÖKALUKATSAUS",
-        "heading": "Mukauta vaatimustenmukaisuutta varten token-laajennuksilla",
-        "body": "Uusi token-standardi Solanalla, joka on rakennettu yhteistyössä suurten laitosten kanssa. Token-laajennuksilla on natiivitoiminnallisuus, joka on suunniteltu monimutkaisiin käyttäytymismalleihin ja sääntelyvaatimuksiin. Yhdistele mitä tahansa yli tusinasta laajennuksesta rakentaaksesi tokenin, joka täyttää tietyt tarpeet — käytä siirtomaksuja veloittaaksesi maksuja tokeneista, pysyvää delegaattiauktoriteettia jäädytys- ja takavarikointitoiminnallisuuden asettamiseen, siirtokoukuja KYC:tä varten ja paljon muuta.",
-        "ctaLabel": "lue lisää"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "Wall Streetin \nselvitysrata.",
+      "subtitle": "Rahoitusala on siirtynyt pilottien ohi. Rahoituslaitokset ympäri maailman ovat jo tuotannossa ja selvittävät todellisia varoja, laskevat liikkeeseen todellisia instrumentteja sekä siirtävät todellista pääomaa Solanassa juuri nyt.",
+      "reportEyebrow": "Institutionaalinen rahoitus Solanassa",
+      "reportDescription": "Opi, miten johtavat rahoituslaitokset käyttöönottavat Solanaa.",
+      "emailCta": "Ota yhteyttä nyt",
+      "stats": {
         "0": {
-          "title": "Solana Permissioned Environments (SPE:t)",
-          "body": "<p>Mukautettavat, yksityiset SVM-verkot yritysratkaisuihin.</p>",
-          "buttonLabel": "Lue lisää"
+          "value": "<1 s",
+          "label": "Tapahtuman lopullisuus"
         },
         "1": {
-          "title": "Tosielämän omaisuuden tokenointi",
-          "body": "<p>Avaa uusia mahdollisuuksia sijoittamiseen, likviditeettiin ja omaisuudenhallintaan.</p>",
-          "buttonLabel": "LUE LISÄÄ"
+          "value": "0,00025 $",
+          "label": "Keskimääräiset transaktiokustannukset"
         },
         "2": {
-          "title": "Tilapakkaus",
-          "body": "<p>Hyödynnä Solana-protokollan innovatiivista pakkaustekniikkaa rakentaaksesi massiiviseen mittakaavaan.</p>",
-          "buttonLabel": "lue lisää"
+          "value": "100+ milj.",
+          "label": "Päivittäisiä tapahtumia"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Mukauta vaatimustenmukaisuutta</light> Token Extensions -toiminnolla",
+      "description": "Solanan uusi token-standardi, joka on kehitetty yhteistyössä suurten instituutioiden kanssa. Token Extensions sisältää natiivitoimintoja, jotka on suunniteltu monimutkaisiin toimintatapoihin ja sääntelyvaatimusten noudattamiseen. Yhdistele mitä tahansa yli tusinaa laajennusta rakentaaksesi tokenin, joka vastaa tiettyjä tarpeita – käytä siirtomaksuja, pysyvää valtuutusta jäädyttämis- ja takavarikointitoimintoja varten, siirtokoukuja KYC:tä varten ja paljon muuta."
+    },
+    "projects": {
+      "title": "<light>Tuotantokäyttöönottoja <br></br></light>Solanassa",
+      "morganStanley": {
+        "name": "Morgan Stanley",
+        "description": "Morgan Stanley Investment Management laajentaa pääsyä Solanaan vähittäis- ja institutionaalisille asiakkaille maailmanlaajuisesti Morgan Stanley Solana Trustin kautta. Tuote on suunniteltu seuraamaan SOL:n hintaa ja sisältää staking-komponentin, joka mahdollistaa osalle omistuksista verkon palkintojen ansaitsemisen.",
+        "stat": "1,8 biljoonaa $",
+        "statLabel": "Hallinnoidut varat"
+      },
+      "jpmorgan": {
+        "name": "JPMorgan",
+        "description": "JPMorgan tokenisoi lyhytaikaisia velkainstrumentteja mahdollistaen 24/7-yritystodistusten liikkeeseenlaskun, jälkimarkkinakaupan ja automatisoidun selvityksen. Ohjelmoitavat maturiteettiehdot ja KYC-siirtokoukut korvaavat manuaalisen täsmäytyksen vastapuolten välillä.",
+        "stat": "50 milj. $",
+        "statLabel": "Alkuperäinen liikkeeseenlasku"
+      },
+      "citi": {
+        "name": "Citi",
+        "description": "Citi digitalisoi kaupankäynnin rahoitusta tutkimalla konseptitodistusta Solanassa, jossa paperisiin rembursseihin ja laskujen täsmäytykseen perustuvat prosessit korvataan ohjelmoitavilla älykkäillä sopimuksilla. Tuloksena on nopeampi käyttöpääoman vapautuminen, täysi auditoitavuus ja kitkaton rajat ylittävä selvitys.",
+        "stat": "24/7",
+        "statLabel": "Työnkulun saatavuus"
+      },
+      "societeGenerale": {
+        "name": "Societe Generale",
+        "description": "Societe Generale on digitaalisen omaisuuden yksikkönsä SG Forgen kautta laskenut liikkeeseen EUR CoinVertiblen (EURCV) Solanassa: säädellyn, euroissa määritellyn vakaan kolikon, joka mahdollistaa ohjelmoitavat maksut, välittömän selvityksen ja DeFi-natiivit rahoitustuotteet institutionaalisille asiakkaille.",
+        "stat": "1:1",
+        "statLabel": "EUR-vakuus"
+      },
+      "stateStreet": {
+        "name": "State Street",
+        "description": "State Street ja Galaxy Asset Management lanseerasivat tokenisoidun rahamarkkinarahaston Solanassa käyttäen PYUSD:tä 24/7 merkintöihin ja lunastuksiin. State Street, jolla on 50 biljoonaa dollaria säilytettäviä varoja, on ensimmäinen maailmanlaajuisesti systeemisesti tärkeä pankki, joka laskee liikkeeseen varoja julkisessa lohkoketjussa.",
+        "stat": "50 biljoonaa $",
+        "statLabel": "Säilytyksessä olevat varat"
+      }
+    },
+    "useCases": {
+      "title": "Rakennettu säänneltyä rahoitusta varten",
+      "items": {
+        "0": {
+          "title": "Siirtorajoitukset ja sijoittajien valkolistat",
+          "description": "Hallitse tarkasti, kuka voi omistaa ja siirtää tokeneita sisäänrakennetuilla siirtorajoituksilla ja sijoittajien valkoislistoilla protokollatasolla. Kolmannen osapuolen työkaluja ei tarvita."
+        },
+        "1": {
+          "title": "Jäädytys- ja takavarikointi-oikeus",
+          "description": "Ylläpidä säännöstenmukaisuutta natiiveilla jäädytys- ja takavarikointi-ominaisuuksilla. Pysyvä delegaatti-oikeus mahdollistaa instituutioiden täsmäyttää täytäntöönpanovaatimukset vaarantamatta hajautusta."
+        },
+        "2": {
+          "title": "Luottamukselliset siirrot",
+          "description": "Suojaa institutionaalinen yksityisyys luottamuksellisilla siirroilla, jotka piilottavat transaktiosummat säilyttäen samalla täyden auditoitavuuden sääntelyviranomaisille. Sisäänrakennettu natiivisti token-standardiin."
         },
         "3": {
-          "title": "Digitaaliset omaisuudet",
-          "body": "<p>Natiivituki digitaalisten omaisuuserien seuraavalle sukupolvelle.</p>",
-          "buttonLabel": "lue lisää"
+          "title": "Ohjelmoitavat siirtokoukut",
+          "description": "Toteuta KYC/AML-tarkistukset automaattisesti jokaisessa siirrossa ohjelmoitavilla koukuilla. Mukautettu logiikka suoritetaan protokollatasolla, mikä varmistaa vaatimustenmukaisuuden ilman manuaalista väliintuloa."
+        },
+        "4": {
+          "title": "Luvalliset ympäristöt (SPE:t)",
+          "description": "Ota käyttöön yksityiset, mukautettavat SVM-verkot arkaluonteisille institutionaalisille työkuormille. Solanan luvalliset ympäristöt tarjoavat julkisen ketjun suorituskyvyn yhdistettynä yksityisen verkon hallintaan."
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa laajensi stablecoin-pilottinsa Solanaan todeten, että verkko oli \"hyvä ehdokas tehokkaaksi lohkoketjuselvitysraidaksi käyttäen stablecoineja kuten USDC\"</p>",
-        "buttonLabel": "Lue lisää"
+        "title": "Token Extensions",
+        "description": "Säännöstenmukaisuuteen rakennettu token-standardi, jossa sisäänrakennetut siirtohookit, jäädytysvaltuudet ja luottamukselliset siirrot."
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe julkaisi fiat-krypto-maksuportaalinsa — ja 11 ohjelman 16 projektista on rakennettu Solanaan.</p>",
-        "buttonLabel": "lue lisää"
+        "title": "Lupaan perustuvat ympäristöt",
+        "description": "Yksityiset SVM-verkot yritystyökuormille täydellä hallinnalla validatorien ja pääsyn osalta."
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>Korkean taajuuden oraakkelipalvelu käyttää Solana Permissioned Environment -ympäristöä nopeaan datan käsittelyyn.</p>",
-        "buttonLabel": "Lue tapaustutkimus"
-      }
+        "title": "RWA-tokenisointi",
+        "description": "Tosielämän omaisuuserien infrastruktuuri osakkeiden, velkojen, rahastojen ja vaihtoehtoisten omaisuuserien tokenisointiin."
+      },
+      "3": {
+        "title": "Luottamukselliset siirrot",
+        "description": "Yksityisyyttä suojaavat transaktiot, jotka piilottavat summat säilyttäen samalla sääntelyvalvonnan mahdollisuuden."
+      },
+      "4": {
+        "title": "24/7-selvitys",
+        "description": "Jatkuvasti käytössä oleva selvitys ilman markkina-aikoja, T+2-viiveitä ja alle sekunnin lopullisuudella."
+      },
+      "5": {
+        "title": "Ohjelmoitava vaatimustenmukaisuus",
+        "description": "KYC/AML-valvonta omaisuustasolla automaattisilla tarkistuksilla jokaisessa siirrossa."
+      },
+      "title": "Instituutioiden työkalupakki",
+      "description": "Solanalla on kymmeniä avaimet käteen -tuotteita institutionaaliseen rahoitukseen."
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "Rahoituksen tulevaisuus",
+      "subtitle": "Kuule edelläkävijöiltä, jotka muuttavat globaaleja markkinoita ja miksi he ovat valinneet Solanan.",
+      "videos": [
+        {
+          "title": "Digitaalisten omaisuuserien tulevaisuus",
+          "description": "Roger Bayston, Franklin Templeton EVP",
+          "alt": "Digitaalisten omaisuuserien tulevaisuus -videon esikatselukuva"
+        },
+        {
+          "title": "Solana ja R3",
+          "description": "David Rutter, toimitusjohtaja, R3",
+          "alt": "Solana ja R3 -videon esikatselukuva"
+        },
+        {
+          "title": "Instituutiot ovat täällä",
+          "description": "Visa, VanEck, Ondo Finance, Galaxy Digital, Franklin Templeton",
+          "alt": "Instituutiot-videon esikatselukuva"
+        },
+        {
+          "title": "Internetin pääomamarkkinat",
+          "description": "Akshay BD, Solana Foundation nCMO",
+          "alt": "Internet Capital Markets -videon pikkukuva"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>Mikä</light> liikuttaa markkinoita",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "Nopea",
-          "body": "<p>Solanan transaktiot vahvistetaan alle sekunnissa, 5x nopeammin kuin seuraavaksi nopeimmassa lohkoketjuratkaisussa.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Webinaarikooste: Yritysten rahastonhoito ketjussa — 24/7 globaali likviditeetti"
         },
         "1": {
-          "label": "",
-          "headline": "Edullinen",
-          "body": "<p>Solanan ennustettavat maksut tarkoittavat, että tavalliset transaktiot maksavat murto-osan sentistä — jopa huippukäytön aikana.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "WisdomTree laajentaa tokenisointiekosysteemiään Solanaan"
         },
         "2": {
-          "label": "",
-          "headline": "Todistettu",
-          "body": "<p>Solana-verkko käsittelee miljoonia transaktioita joka päivä — enemmän kuin kaikki muut lohkoketjut yhteensä.</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks: Instituutiotason rahastonhoitoinfrastruktuuri, joka toimii internetin nopeudella"
+        },
+        "3": {
+          "title": "Lisää kaistanleveyttä, vähennä viivettä: Miten Solana skaalautuu mahdollistaakseen internetin pääomamarkkinat"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "Valmis rakentamaan instituutiostandardille?",
+      "reportDescription": "Liity pankkien ja rahoituslaitosten joukkoon, jotka jo käyttävät Solanaa.",
+      "downloadReport": "Yhdistä",
+      "whatElseTitle": "Mitä muuta Solana mahdollistaa?",
+      "items": [
+        {
+          "label": "Valtuutetut ympäristöt"
+        },
+        {
+          "label": "Digitaaliset omaisuuserät"
+        },
+        {
+          "label": "Reaalimaailman omaisuuserät"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana Permissioned Environments",
-      "description": "Solana Permissioned Environments eli SPE:t tuovat yksityisen Solana Virtual Machinen erityistarpeita omaaville yrityksille — luoden muokattavan, brändäämättömän ympäristön, joka hyödyntää Solanan vertaansa vailla olevaa teknologiaa."
+      "description": "Solana Permissioned Environments eli SPE:t tuovat yksityisen Solana Virtual Machinen yrityksille, joilla on erityistarpeita — luoden mukautettavan, brändäämättömän ympäristön, joka käyttää Solanan vertaansa vailla olevaa teknologiaa."
     },
     "hero": {
       "eyebrow": "Solana Permissioned Environments",

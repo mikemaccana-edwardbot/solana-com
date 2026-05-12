@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "金融機関向けSolana: 今日から金融の未来を構築",
-      "seoDescription": "金融機関向けの最速、最安、最もスケーラブルなブロックチェーン。Token Extensions、SPE、資産トークン化などで新たな可能性を解き放ちます。Visa、Stripe、Pythから信頼されています。"
+      "title": "金融機関向けSolana：ウォール街の決済インフラ",
+      "description": "金融業界は試験段階を超えました。世界中の金融機関がSolana上で実際の資産を決済し、実際の金融商品を発行し、実際の資本を移動しています。"
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "大量取引に対応するカスタマイズ可能なブロックチェーンソリューション",
-      "body": "<p>Solanaプロトコルは、高度に設定可能なネイティブツールを提供し、機関投資家に比類のないスピード、コスト効率、柔軟性をもたらします。グローバルな24時間取引を可能にするweb3を必要とする金融機関は、Token Extensions、許可型環境などのSolanaエコシステムのイノベーションを活用して、コンプライアンスに適したソリューションを構築できます。</p>"
-    },
-    "buttons": {
-      "connect": "接続"
-    },
-    "trustbar": {
-      "eyebrow": "世界中の企業からのツールと統合を支援"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "始めるためのツール",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "確立された機関と最先端のスタートアップの両方から信頼されています",
-        "body": "Solana上での構築を選択したリーダーたちによる最新のイノベーションをご覧ください:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "世界で最も使用されているブロックチェーン",
-        "body": "Solanaは、他のすべてのチェーンを合わせたよりも多くの日次トランザクションを処理しています。"
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "ツールスポットライト",
-        "heading": "Token Extensionsでコンプライアンスに合わせてカスタマイズ",
-        "body": "大規模機関との協力により構築されたSolana上の新しいトークン規格であるToken Extensionsは、複雑な動作と規制コンプライアンスのために設計されたネイティブ機能を備えています。12以上の拡張機能を自由に組み合わせて、特定のニーズを満たすトークンを構築できます。トークンに手数料を課すための転送手数料、凍結・差押え機能を設定するための永続的な委任権限、KYCのための転送フックなどを使用できます。",
-        "ctaLabel": "詳細を確認"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "ウォール街の\n決済インフラ。",
+      "subtitle": "金融業界は試験段階を超えました。世界中の金融機関が本番稼働中で、今まさにSolana上で実際の資産を決済し、実際の金融商品を発行し、実際の資本を移動しています。",
+      "reportEyebrow": "Solana上の機関投資家向け金融",
+      "reportDescription": "主要な金融機関がSolana上でどのように展開しているかをご覧ください。",
+      "emailCta": "今すぐ問い合わせる",
+      "stats": {
         "0": {
-          "title": "Solana Permissioned Environments (SPE)",
-          "body": "<p>エンタープライズソリューション向けのカスタマイズ可能なプライベートSVMネットワーク</p>",
-          "buttonLabel": "詳細を確認"
+          "value": "1秒未満",
+          "label": "トランザクションの確定時間"
         },
         "1": {
-          "title": "実物資産のトークン化",
-          "body": "<p>投資、流動性、資産管理の新たな道を切り開きます。</p>",
-          "buttonLabel": "詳細を確認"
+          "value": "$0.00025",
+          "label": "平均トランザクションコスト"
         },
         "2": {
-          "title": "ステート圧縮",
-          "body": "<p>Solanaプロトコル上の革新的な圧縮技術を使用して、大規模なスケールで構築します。</p>",
-          "buttonLabel": "詳細を確認"
+          "value": "1億件以上",
+          "label": "1日のトランザクション数"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>コンプライアンス対応をカスタマイズ</light> Token Extensions",
+      "description": "大手金融機関との協力により構築されたSolana上の新しいトークン標準であるToken Extensions Programは、複雑な動作や規制遵守のために設計されたネイティブ機能を備えています。12種類以上の拡張機能を自由に組み合わせて、特定のニーズに合ったトークンを構築できます。送金手数料、凍結・押収機能のための永続的な委任権限、KYC用の送金フック機能などを活用できます。"
+    },
+    "projects": {
+      "title": "<light>Solana上での<br></br>本番稼働</light>事例",
+      "morganStanley": {
+        "name": "モルガン・スタンレー",
+        "description": "モルガン・スタンレー・インベストメント・マネジメントは、Morgan Stanley Solana Trustを通じて、世界中の個人投資家および機関投資家向けにSolanaへのアクセスを拡大しています。この商品はSOLの価格を追跡するように設計されており、保有資産の一部でネットワーク報酬を獲得できるステーキング機能を含んでいます。",
+        "stat": "1.8兆ドル",
+        "statLabel": "運用資産残高"
+      },
+      "jpmorgan": {
+        "name": "JPモルガン",
+        "description": "JPモルガンは短期債務証券をトークン化し、24時間365日のコマーシャルペーパー発行、流通市場取引、自動決済を可能にしています。プログラム可能な満期条件とKYC送金フックにより、取引相手間での手動照合作業が不要になります。",
+        "stat": "5,000万ドル",
+        "statLabel": "初回発行額"
+      },
+      "citi": {
+        "name": "シティ",
+        "description": "Citiは、紙ベースの信用状や請求書の照合をプログラマブルなスマートコントラクトに置き換えるSolana上の概念実証を検証することで、貿易金融のデジタル化を推進しています。その結果、運転資本の解放の迅速化、完全な監査可能性、そして摩擦のないクロスボーダー決済を実現します。",
+        "stat": "24時間365日",
+        "statLabel": "ワークフローの可用性"
+      },
+      "societeGenerale": {
+        "name": "ソシエテ・ジェネラル",
+        "description": "ソシエテ・ジェネラルは、そのデジタル資産部門であるSG Forgeを通じて、Solana上でEUR CoinVertible(EURCV)を発行しました。これは、機関投資家向けにプログラマブルな決済、即時決済、DeFiネイティブな金融商品を可能にする、規制準拠のユーロ建てステーブルコインです。",
+        "stat": "1:1",
+        "statLabel": "EURの裏付け"
+      },
+      "stateStreet": {
+        "name": "ステート・ストリート",
+        "description": "ステート・ストリートとギャラクシー・アセット・マネジメントは、Solana上でトークン化されたマネー・マーケット・ファンドを立ち上げ、PYUSDを使用して24時間365日の申込と償還を実現しました。50兆ドルの資産を保管するステート・ストリートは、パブリック・ブロックチェーン上で資産を発行した初のグローバルなシステム上重要な銀行です。",
+        "stat": "50兆ドル",
+        "statLabel": "保管資産"
+      }
+    },
+    "useCases": {
+      "title": "規制金融向けに構築",
+      "items": {
+        "0": {
+          "title": "譲渡制限と投資家ホワイトリスト",
+          "description": "プロトコルレベルで組み込まれた譲渡制限と投資家ホワイトリストにより、トークンを保有・譲渡できる対象を正確に管理できます。サードパーティツールは不要です。"
+        },
+        "1": {
+          "title": "凍結・押収権限",
+          "description": "ネイティブの凍結・押収機能により規制コンプライアンスを維持します。恒久的な委任権限により、金融機関は分散化を損なうことなく、執行要件を満たすことができます。"
+        },
+        "2": {
+          "title": "機密性の高い転送",
+          "description": "取引金額を秘匿しながら、規制当局への完全な監査可能性を維持する機密性の高い転送により、機関投資家のプライバシーを保護します。トークン標準にネイティブで組み込まれています。"
         },
         "3": {
-          "title": "デジタル資産",
-          "body": "<p>次世代デジタル資産のネイティブサポート。</p>",
-          "buttonLabel": "詳細を確認"
+          "title": "プログラマブル転送フック",
+          "description": "プログラマブルフックにより、すべての転送で自動的にKYC/AMLチェックを実施します。カスタムロジックがプロトコルレベルで実行されるため、手動介入なしでコンプライアンスを確保できます。"
+        },
+        "4": {
+          "title": "許可制環境(SPE)",
+          "description": "機密性の高い機関向けワークロードのために、プライベートでカスタマイズ可能なSVMネットワークを展開します。Solana許可制環境は、パブリックチェーンのパフォーマンスとプライベートネットワークの制御を提供します。"
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>VisaはステーブルコインのパイロットプログラムをSolanaに拡大し、このネットワークは「USDCのようなステーブルコインを使用した効率的なブロックチェーン決済レールの有力候補である」と述べました。</p>",
-        "buttonLabel": "詳細を読む"
+        "title": "Token Extensions",
+        "description": "組み込みの転送フック、凍結権限、機密転送を備えたコンプライアンスネイティブなトークン標準。"
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripeは法定通貨から暗号資産への決済オンランプをデビューさせました。プログラムに参加する16プロジェクトのうち11がSolana上に構築されています。</p>",
-        "buttonLabel": "詳細を確認"
+        "title": "許可制環境",
+        "description": "validatorとアクセスを完全に制御できる、エンタープライズワークロード向けのプライベートSVMネットワーク。"
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>高頻度オラクルサービスは、迅速なデータ処理のためにSolana Permissioned Environmentを使用しています。</p>",
-        "buttonLabel": "ケーススタディを読む"
-      }
+        "title": "RWAトークン化",
+        "description": "株式、債券、ファンド、オルタナティブ資産をトークン化するための実物資産インフラストラクチャ。"
+      },
+      "3": {
+        "title": "機密転送",
+        "description": "規制上の監査可能性を維持しながら金額を秘匿する、プライバシー保護型のトランザクション。"
+      },
+      "4": {
+        "title": "24時間365日決済",
+        "description": "市場時間の制約なし、T+2の遅延なし、サブセカンドのファイナリティを実現する常時稼働の決済。"
+      },
+      "5": {
+        "title": "プログラマブルコンプライアンス",
+        "description": "資産レイヤーでのKYC/AML執行により、すべての転送で自動チェックを実施。"
+      },
+      "title": "機関投資家向けツールキット",
+      "description": "Solanaは、機関投資家向け金融のための数十種類のターンキー製品を提供しています。"
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "金融の未来",
+      "subtitle": "グローバル市場を変革するパイオニアたちの声と、彼らがSolanaを選んだ理由をご覧ください。",
+      "videos": [
+        {
+          "title": "デジタル資産の未来",
+          "description": "Roger Bayston氏、Franklin Templeton EVP",
+          "alt": "デジタル資産の未来ビデオサムネイル"
+        },
+        {
+          "title": "SolanaとR3",
+          "description": "David Rutter氏、R3 CEO",
+          "alt": "SolanaとR3ビデオサムネイル"
+        },
+        {
+          "title": "機関投資家がここに",
+          "description": "Visa、VanEck、Ondo Finance、Galaxy Digital、Franklin Templeton",
+          "alt": "機関投資家ビデオサムネイル"
+        },
+        {
+          "title": "インターネット資本市場",
+          "description": "Akshay BD、Solana Foundation nCMO",
+          "alt": "インターネット資本市場の動画サムネイル"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>市場を</light>動かすもの",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "高速",
-          "body": "<p>Solanaのトランザクションは1秒未満で確認され、次に速いブロックチェーンソリューションの5倍の速さです。</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "ウェビナー総括：オンチェーンでの企業財務管理 — 24時間365日のグローバル流動性"
         },
         "1": {
-          "label": "",
-          "headline": "低コスト",
-          "body": "<p>Solanaの予測可能な手数料により、ピーク時でも通常のトランザクションコストは1セント未満です。</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "WisdomTree、トークン化エコシステムをSolanaに拡大"
         },
         "2": {
-          "label": "",
-          "headline": "実績",
-          "body": "<p>Solanaネットワークは毎日数百万件のトランザクションを処理しており、他のすべてのブロックチェーンを合わせた数を上回っています。</p>",
-          "alt": "Default Alt Text",
-          "buttonLabel": ""
+          "title": "Solana × Fireblocks：インターネット速度で動く機関投資家グレードの財務インフラ"
+        },
+        "3": {
+          "title": "帯域幅の向上、レイテンシの削減：Solanaがインターネット資本市場を実現するためのスケーリング方法"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "機関投資家標準で構築する準備はできていますか？",
+      "reportDescription": "すでにSolana上で展開している銀行や金融機関の仲間入りをしましょう。",
+      "downloadReport": "接続する",
+      "whatElseTitle": "Solanaは他に何を支えていますか？",
+      "items": [
+        {
+          "label": "許可型環境"
+        },
+        {
+          "label": "デジタル資産"
+        },
+        {
+          "label": "実物資産"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana Permissioned Environments",
-      "description": "Solana Permissioned Environments(SPE)は、特別なニーズを持つ企業にプライベートなSolana Virtual Machineを提供し、Solanaの比類なき技術を使用したカスタマイズ可能でブランドフリーな環境を構築します。"
+      "description": "Solana Permissioned Environments（SPE）は、特別なニーズを持つ企業にプライベートなSolana仮想マシンを提供します。Solanaの比類なき技術を活用した、カスタマイズ可能でブランドフリーな環境を構築します。"
     },
     "hero": {
       "eyebrow": "Solana Permissioned Environments",

@@ -3405,110 +3405,179 @@
   },
   "financial-institutions-solution": {
     "meta": {
-      "seoTitle": "Finans kurumları için Solana: Finansın geleceğini bugün inşa edin",
-      "seoDescription": "Finansal kurumlar için en hızlı, en ucuz ve en ölçeklenebilir blokzincir. Token uzantıları, SPE'ler, varlık tokenizasyonu ve daha fazlasıyla yeni olanakların kilidini açın. Visa, Stripe ve Pyth tarafından güvenilir."
+      "title": "Finans Kurumları için Solana: Wall Street'in Mutabakat Altyapısı",
+      "description": "Finans sektörü pilot uygulamaların ötesine geçti. Dünya çapındaki finans kurumları Solana üzerinde gerçek varlıkları takas ediyor, gerçek enstrümanlar ihraç ediyor ve gerçek sermaye taşıyor."
     },
     "hero": {
-      "eyebrow": "",
-      "headline": "Yüksek hacimli finans için özelleştirilebilir blokzincir çözümleri.",
-      "body": "<p>Solana protokolü, kurumlara benzersiz hız, maliyet verimliliği ve esneklik sağlayan son derece yapılandırılabilir, yerel araçlar sunar. Küresel, 24 saat ticaret için web3'e ihtiyaç duyan finansal kurumlar, uyumluluk dostu çözümler oluşturmak için token uzantıları, izinli ortamlar ve daha fazlası gibi Solana ekosistemindeki yeniliklerden yararlanabilir.</p>"
-    },
-    "buttons": {
-      "connect": "BAĞLAN"
-    },
-    "trustbar": {
-      "eyebrow": "DÜNYANIN HER YERİNDEN ŞİRKETLERİN ARAÇLARINI VE ENTEGRASYONLARINI GÜÇLENDİRİYOR"
-    },
-    "headings": {
-      "tools": {
-        "eyebrow": "",
-        "headline": "Başlamak için araçlar",
-        "body": ""
-      },
-      "trusted": {
-        "eyebrow": "",
-        "headline": "Hem köklü kurumlar hem de öncü girişimler tarafından güvenilir",
-        "body": "Solana üzerinde inşa etmeyi seçen liderlerden en son yenilikleri görün:"
-      },
-      "worldsMostUsed": {
-        "eyebrow": "",
-        "headline": "Dünyanın en çok kullanılan blokzinciri.",
-        "body": "Solana, diğer tüm zincirlerin toplamından daha fazla günlük işlem gerçekleştirir."
-      }
-    },
-    "cardDecks": {
-      "toolSpotlight": {
-        "eyebrow": "ARAÇ SPOT IŞIĞI",
-        "heading": "Token uzantıları ile uyumluluk için özelleştirin",
-        "body": "Büyük kurumlarla işbirliği içinde oluşturulan Solana üzerindeki yeni bir token standardı olan Token Extensions, karmaşık davranışlar ve düzenleyici uyumluluk için tasarlanmış yerel işlevselliğe sahiptir. Belirli ihtiyaçları karşılayan bir token oluşturmak için bir düzineden fazla uzantıdan herhangi birini karıştırıp eşleştirin — tokenler üzerinden ücret almak için transfer ücretleri, dondurma ve el koyma işlevselliği kurmak için kalıcı delege yetkisi, KYC için transfer kancaları ve daha fazlasını kullanın.",
-        "ctaLabel": "daha fazla bilgi edinin"
-      }
-    },
-    "slider": {
-      "cards": {
+      "title": "Wall Street'in \nMutabakat Altyapısı.",
+      "subtitle": "Finans sektörü pilot uygulamaların ötesine geçti. Dünya çapındaki finans kurumları şu anda canlı üretim ortamında, Solana üzerinde gerçek varlıkları takas ediyor, gerçek enstrümanlar ihraç ediyor ve gerçek sermaye taşıyor.",
+      "reportEyebrow": "Solana'da Kurumsal Finans",
+      "reportDescription": "Önde gelen finans kurumlarının Solana'ya nasıl dağıtım yaptığını öğrenin.",
+      "emailCta": "Hemen bağlan",
+      "stats": {
         "0": {
-          "title": "Solana izinli ortamlar (SPE'ler)",
-          "body": "<p>Kurumsal çözümler için özelleştirilebilir, özel SVM ağları.</p>",
-          "buttonLabel": "Daha fazla bilgi edinin"
+          "value": "<1sn",
+          "label": "İşlem kesinleşme süresi"
         },
         "1": {
-          "title": "Gerçek dünya varlık tokenizasyonu",
-          "body": "<p>Yatırım, likidite ve varlık yönetimi için yeni yolların kilidini açın.</p>",
-          "buttonLabel": "DAHA FAZLA BİLGİ EDİNİN"
+          "value": "$0,00025",
+          "label": "Ortalama işlem maliyeti"
         },
         "2": {
-          "title": "Durum sıkıştırma",
-          "body": "<p>Büyük ölçek için inşa etmek üzere Solana protokolündeki yenilikçi sıkıştırma teknolojisini kullanın.</p>",
-          "buttonLabel": "daha fazla bilgi edinin"
+          "value": "100M+",
+          "label": "Günlük işlemler"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Token Extensions ile uyumluluk için</light> özelleştirin",
+      "description": "Büyük kurumlarla işbirliği içinde geliştirilen Solana üzerinde yeni bir token standardı olan Token Extensions, karmaşık davranışlar ve düzenleyici uyumluluk için tasarlanmış yerel işlevselliğe sahiptir. Belirli ihtiyaçları karşılayan bir token oluşturmak için düzineden fazla uzantıdan herhangi birini karıştırıp eşleştirin - transfer ücretleri, dondurma ve el koyma işlevselliği için kalıcı delege yetkisi, KYC için transfer kancaları ve daha fazlasını kullanın."
+    },
+    "projects": {
+      "title": "<light>Solana üzerinde <br></br>canlı</light> dağıtımlar",
+      "morganStanley": {
+        "name": "Morgan Stanley",
+        "description": "Morgan Stanley Investment Management, Morgan Stanley Solana Trust aracılığıyla küresel bireysel ve kurumsal müşteriler için Solana'ya erişimi genişletiyor. Ürün, SOL fiyatını takip etmek üzere tasarlanmıştır ve bir stake bileşeni içerir, bu da varlıkların bir kısmının ağ ödülleri kazanmasını sağlar.",
+        "stat": "1,8 Trilyon $",
+        "statLabel": "Yönetilen varlıklar"
+      },
+      "jpmorgan": {
+        "name": "JPMorgan",
+        "description": "JPMorgan, kısa vadeli borçlanma araçlarını tokenize ederek 7/24 ticari senet ihracı, ikincil piyasa ticareti ve otomatik mutabakat sağlıyor. Programlanabilir vade koşulları ve KYC transfer kancaları, karşı taraflar arasında manuel mutabakat işlemlerinin yerini alıyor.",
+        "stat": "50 Milyon $",
+        "statLabel": "İlk ihraç"
+      },
+      "citi": {
+        "name": "Citi",
+        "description": "Citi, kağıt tabanlı akreditifleri ve fatura mutabakatını programlanabilir akıllı sözleşmelerle değiştirerek Solana üzerinde bir kavram kanıtı keşfederek ticaret finansmanını dijitalleştiriyor. Sonuç: daha hızlı işletme sermayesi serbest bırakma, tam denetlenebilirlik ve sorunsuz sınır ötesi uzlaşma.",
+        "stat": "7/24",
+        "statLabel": "İş akışı kullanılabilirliği"
+      },
+      "societeGenerale": {
+        "name": "Societe Generale",
+        "description": "Societe Generale, dijital varlık kolu SG Forge aracılığıyla Solana üzerinde EUR CoinVertible (EURCV) ihraç etti: kurumsal müşteriler için programlanabilir ödemeleri, anında uzlaşmayı ve DeFi-yerel finansal ürünleri mümkün kılan düzenlenmiş, euro cinsinden bir stablecoin.",
+        "stat": "1:1",
+        "statLabel": "EUR desteklemesi"
+      },
+      "stateStreet": {
+        "name": "State Street",
+        "description": "State Street ve Galaxy Asset Management, PYUSD kullanarak 7/24 abonelik ve geri alımlar için Solana üzerinde tokenize edilmiş bir para piyasası fonu başlattı. 50 trilyon dolar托管 varlığıyla State Street, halka açık bir blokzincirde varlık ihraç eden ilk Küresel Sistemik Öneme Sahip Banka'dır.",
+        "stat": "50 trilyon $",
+        "statLabel": "托管 edilen varlıklar"
+      }
+    },
+    "useCases": {
+      "title": "Düzenlenmiş finans için inşa edildi",
+      "items": {
+        "0": {
+          "title": "Transfer kısıtlamaları ve yatırımcı beyaz listesi",
+          "description": "Protokol seviyesinde yerleşik transfer kısıtlamaları ve yatırımcı beyaz listesiyle tokenları tam olarak kimin tutabileceğini ve transfer edebileceğini kontrol edin. Üçüncü taraf araçlara gerek yok."
+        },
+        "1": {
+          "title": "Dondurma ve el koyma yetkisi",
+          "description": "Yerel dondurma ve el koyma yetenekleriyle düzenleyici uyumluluğu koruyun. Kalıcı temsilci yetkisi, kurumların merkeziyetsizlikten ödün vermeden uygulama gerekliliklerini karşılamasını sağlar."
+        },
+        "2": {
+          "title": "Gizli transferler",
+          "description": "Düzenleyiciler için tam denetlenebilirliği korurken işlem tutarlarını gizleyen gizli transferlerle kurumsal gizliliği koruyun. Token standardına yerel olarak entegre edilmiştir."
         },
         "3": {
-          "title": "Dijital varlıklar",
-          "body": "<p>Yeni nesil dijital varlıklar için yerel destek.</p>",
-          "buttonLabel": "daha fazla bilgi edinin"
+          "title": "Programlanabilir transfer kancaları",
+          "description": "Programlanabilir kancalarla her transferde KYC/AML kontrollerini otomatik olarak uygulayın. Özel mantık protokol seviyesinde yürütülür, manuel müdahale olmadan uyumluluğu sağlar."
+        },
+        "4": {
+          "title": "İzinli ortamlar (SPE'ler)",
+          "description": "Hassas kurumsal iş yükleri için özel, özelleştirilebilir SVM ağları dağıtın. Solana İzinli Ortamları, özel ağın kontrolüyle birlikte halka açık zincirin performansını sağlar."
         }
       }
     },
-    "switchbacks": {
+    "products": {
       "0": {
-        "headline": "Visa",
-        "body": "<p>Visa, stablecoin pilot programını Solana'ya genişletti ve ağın \"USDC gibi stablecoin'ler kullanarak verimli blockchain ödeme altyapısı için iyi bir aday\" olduğunu belirtti.</p>",
-        "buttonLabel": "Daha fazla oku"
+        "title": "Token Extensions",
+        "description": "Transfer kancaları, dondurma yetkisi ve gizli transferler ile yerleşik uyumluluk odaklı token standardı."
       },
       "1": {
-        "headline": "Stripe",
-        "body": "<p>Stripe, fiat-kripto ödeme geçişini başlattı ve programdaki 16 projenin 11'i Solana üzerine inşa edildi.</p>",
-        "buttonLabel": "daha fazla oku"
+        "title": "İzinli Ortamlar",
+        "description": "Doğrulayıcılar ve erişim üzerinde tam kontrol ile kurumsal iş yükleri için özel SVM ağları."
       },
       "2": {
-        "headline": "Pyth",
-        "body": "<p>Yüksek frekanslı oracle hizmeti, hızlı veri işleme için Solana İzinli Ortamı kullanıyor.</p>",
-        "buttonLabel": "Vaka çalışmasını oku"
-      }
+        "title": "Gerçek Dünya Varlıkları Tokenizasyonu",
+        "description": "Hisse senetleri, borç, fonlar ve alternatif varlıkların tokenize edilmesi için gerçek dünya varlığı altyapısı."
+      },
+      "3": {
+        "title": "Gizli Transferler",
+        "description": "Düzenleyici denetlenebilirliği korurken tutarları gizleyen, gizlilik koruyan işlemler."
+      },
+      "4": {
+        "title": "7/24 Uzlaştırma",
+        "description": "Piyasa saatleri, T+2 gecikmeleri olmadan ve saniyenin altında kesinlik ile kesintisiz uzlaştırma."
+      },
+      "5": {
+        "title": "Programlanabilir Uyumluluk",
+        "description": "Her transferde otomatik kontrollerle varlık katmanında KYC/AML uygulaması."
+      },
+      "title": "Kurumsal araç seti",
+      "description": "Solana, kurumsal finans için düzinelerce anahtar teslim ürüne sahiptir."
     },
-    "carousel": {
-      "slides": {
+    "videoPlayer": {
+      "title": "Finansın geleceği",
+      "subtitle": "Küresel piyasaları dönüştüren öncülerden ve neden Solana'yı seçtiklerinden dinleyin.",
+      "videos": [
+        {
+          "title": "Dijital varlıkların geleceği",
+          "description": "Roger Bayston, Franklin Templeton Başkan Yardımcısı",
+          "alt": "Dijital Varlıkların Geleceği video küçük resmi"
+        },
+        {
+          "title": "Solana ve R3",
+          "description": "David Rutter, CEO, R3",
+          "alt": "Solana ve R3 video küçük resmi"
+        },
+        {
+          "title": "Kurumlar burada",
+          "description": "Visa, VanEck, Ondo Finance, Galaxy Digital, Franklin Templeton",
+          "alt": "Kurumlar video küçük resmi"
+        },
+        {
+          "title": "İnternet sermaye piyasaları",
+          "description": "Akshay BD, Solana Foundation nCMO",
+          "alt": "İnternet Sermaye Piyasaları video küçük resmi"
+        }
+      ]
+    },
+    "news": {
+      "title": "<light>Piyasaları</light> hareket ettiren gelişmeler",
+      "items": {
         "0": {
-          "label": "",
-          "headline": "Hızlı",
-          "body": "<p>Solana'daki işlemler bir saniyeden kısa sürede onaylanır, bir sonraki en hızlı blockchain çözümünden 5 kat daha hızlıdır.</p>",
-          "alt": "Varsayılan alternatif metin",
-          "buttonLabel": ""
+          "title": "Webinar Özeti: Blokzincirde Kurumsal Hazine — 7/24 Küresel Likidite"
         },
         "1": {
-          "label": "",
-          "headline": "Düşük maliyetli",
-          "body": "<p>Solana'daki öngörülebilir ücretler, yoğun kullanım sırasında bile normal işlemlerin bir sentin çok küçük bir kısmına mal olduğu anlamına gelir.</p>",
-          "alt": "Varsayılan alternatif metin",
-          "buttonLabel": ""
+          "title": "WisdomTree Tokenizasyon Ekosistemini Solana'ya Genişletiyor"
         },
         "2": {
-          "label": "",
-          "headline": "Kanıtlanmış",
-          "body": "<p>Solana ağı her gün milyonlarca işlem gerçekleştirir; diğer tüm blockchain'lerin toplamından daha fazla.</p>",
-          "alt": "Varsayılan alternatif metin",
-          "buttonLabel": ""
+          "title": "Solana x Fireblocks: İnternet Hızında Hareket Eden Kurumsal Düzeyde Hazine Altyapısı"
+        },
+        "3": {
+          "title": "Bant Genişliğini Artırın, Gecikmeyi Azaltın: Solana İnternet Sermaye Piyasalarını Mümkün Kılmak İçin Nasıl Ölçekleniyor"
         }
       }
+    },
+    "cta": {
+      "reportTitle": "Kurumsal standart üzerinde geliştirmeye hazır mısınız?",
+      "reportDescription": "Halihazırda Solana üzerinde dağıtım yapan bankalar ve finans kuruluşlarına katılın.",
+      "downloadReport": "Bağlan",
+      "whatElseTitle": "Solana başka nelere güç veriyor?",
+      "items": [
+        {
+          "label": "İzinli Ortamlar"
+        },
+        {
+          "label": "Dijital Varlıklar"
+        },
+        {
+          "label": "Gerçek Dünya Varlıkları"
+        }
+      ]
     }
   },
   "token-extensions-solution": {
@@ -3633,7 +3702,7 @@
   "spe-solution": {
     "meta": {
       "title": "Solana izinli ortamlar",
-      "description": "Solana izinli ortamlar veya SPE'ler, özel ihtiyaçları olan işletmelere özel bir Solana sanal makinesi sunarak Solana'nın benzersiz teknolojisini kullanan özelleştirilebilir, markalı olmayan bir ortam yaratır."
+      "description": "Solana İzinli Ortamları veya SPE'ler, özel ihtiyaçları olan işletmelere özel bir Solana Sanal Makinesi sunarak Solana'nın benzersiz teknolojisini kullanan özelleştirilebilir, markalı olmayan bir ortam yaratır."
     },
     "hero": {
       "eyebrow": "Solana izinli ortamlar",
